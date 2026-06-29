@@ -1,0 +1,29 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google)",
+    "[searchenginejournal.com](https://www.searchenginejournal.com)",
+    "[memeburn.com](https://memeburn.com)",
+    "[alm.com](https://www.alm.com)",
+    "[timemagazine.com](https://time.com)",
+    "[news-medical.net](https://www.news-medical.net)",
+    "[free.ai](https://free.ai/code/css/)",
+    "[treasure.tools](https://treasure.tools/ai-css-generator)"
+  ],
+  "design_plan": "rng_seed=42; hero_math=max_width_1120_two_to_three_lines; AIDA=attention(hero_video),interest(workflow_pain),desire(computer_use_cache),action(primary_cta); bento_density=grid_auto_flow_dense_verified; label_sweep=no_meta_labels; button_contrast=black_primary_white_secondary_ok",
+  "generated_at": "2026-06-29T19:35:21.307794+00:00",
+  "headline": "Super for creators and coaches turning conversations into content and operations",
+  "site_brief": {
+    "audience": "creators and coaches turning conversations into content and operations",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "creators and coaches turning conversations into content and operations AI assistant",
+      "creators and coaches turning conversations into content and operations personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-creators-and-coaches-turning-conversations-into",
+    "title": "Super for creators and coaches turning conversations into content and operations"
+  },
+  "summary": "A conversion-focused niche landing page for creators and coaches who live in conversations\u2014calls, DMs, interviews, voice notes\u2014and need those conversations turned into repeatable content and real operations. Grounded in current reporting on computer\u2011use AI agents and workflow automation, this page positions Super as the sharper alternative: a personal AI agent that can actually operate computers and reuse a computer-use cache so repeated workflows get better, faster, and cheaper over time."
+}
